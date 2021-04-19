@@ -1,2 +1,3 @@
 # API-Loja-3-Camadas
-API Core 5.0 Loja com 3 camadas
+
+WEB API loja 3 camadas realizada com 5.0
